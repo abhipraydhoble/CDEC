@@ -128,5 +128,5 @@ def lambda_handler(event, context):
 * Automate non-production environments
 
 
-I can write that optimized version next if you want 👍
+
 ```
